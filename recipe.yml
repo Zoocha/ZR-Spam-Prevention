@@ -1,0 +1,10 @@
+name: 'Zoocha Security Prevention Recipe'
+description: 'Provides Security related modules for Zoocha.'
+type: 'Feature'
+
+install:
+  - honeypot
+  - recaptcha
+  - recaptcha_v3
+config:
+  strict: false

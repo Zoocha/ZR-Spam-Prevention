@@ -1,0 +1,18 @@
+{
+    "name": "zr/zr-security-spam-prevention",
+    "description": "ZR Security SPAM prevention Bundle",
+    "type": "drupal-recipe",
+    "require": {
+        "php": ">=8.1",
+        "drupal/honeypot":"^2.2",
+        "drupal/recaptcha":"^3.4",
+        "drupal/recaptcha_v3":"^2.0"
+    },
+    "authors": [
+        {
+            "name": "Arisha Salman",
+            "email": "webifyworld2020@gmail.com"
+        }
+    ],
+    "license": "GPL-2.0-or-later"
+}
